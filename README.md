@@ -1,2 +1,2 @@
 # SCMVC
-SCMVC: Semantics Constrain-based Spatial-Spectral Multi-view Clustering for Hyperspectral Images
+SCMVC: Semantics Constraint-based Spatial-Spectral Multi-view Clustering for Hyperspectral Images
