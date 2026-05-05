@@ -19,7 +19,7 @@ Learning discriminative representations from **hyperspectral images (HSI)** is c
 - **Semantic constraint loss** — Enforces cross-entropy consistency on the similarity matrices produced by the two spatial views, encouraging the network to preserve the same semantic neighbourhood structure regardless of the view.
 - **Anchor-based clustering** — Learnable anchor centers are updated via **K-Means** during training; final labels are assigned by similarity to anchor centers **without post-processing**.
 
-Experiments on **seven** benchmark HSI datasets (Indian Pines, Pavia University, Salinas, Botswana, Houston, Yancheng, HanChuan) demonstrate the effectiveness of SCMVC.
+Experiments on **four** benchmark HSI datasets (Indian Pines, Salinas, Botswana, Houston) demonstrate the effectiveness of SCMVC.
 
 ---
 
