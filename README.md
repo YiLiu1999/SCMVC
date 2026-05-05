@@ -25,7 +25,7 @@ Experiments on **four** benchmark HSI datasets (Indian Pines, Salinas, Botswana,
 
 ## 🏗️ Method Overview
 
-![image-20260505215611317](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20260505215611317.png)
+<img width="1432" height="788" alt="image" src="https://github.com/user-attachments/assets/a0c1e4a5-fb3f-478f-b6ac-21ea2d2d2277" />
 
 ---
 
