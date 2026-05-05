@@ -2,27 +2,6 @@
 
 <p align="center"><strong>Semantic Constraint-Based Spatial-Spectral Multiview Clustering for Hyperspectral Images</strong></p>
 
-<p align="center">
-  <b>Author A</b><sup>1</sup> &nbsp; <b>Author B</b><sup>1</sup> &nbsp; <b>Author C</b><sup>2</sup><code>*</code>
-</p>
-
-
-<p align="center">
-  <sup>1</sup> Affiliation 1 &nbsp;&nbsp;|&nbsp;&nbsp; <sup>2</sup> Affiliation 2
-</p>
-
-
-<p align="center">
-  <small><code>*</code> Corresponding Author</small>
-</p>
-
-
-<p align="center">
-  <a href="https://doi.org/YOUR_DOI"><img src="https://img.shields.io/badge/Paper-DOI-0085ca?style=flat-square" alt="DOI"></a>
-  &nbsp;
-  <a href="https://github.com/YOUR_REPO"><img src="https://img.shields.io/badge/Code-SCMVC-green?style=flat-square" alt="Code"></a>
-</p>
-
 
 <p align="center">
   If you find this project helpful, please consider giving it a <strong>⭐ star</strong>!
